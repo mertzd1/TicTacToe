@@ -57,7 +57,7 @@ namespace TicTacToe
                         }
                         else
                         {
-                            Console.WriteLine("\nPlayer 1 has won!");
+                            Console.WriteLine("\nPlayer 1 has won, GOOD JOB!");
                         }
                         Console.WriteLine("Press any key to reset the game!");
                         Console.ReadKey();
